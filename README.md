@@ -29,7 +29,7 @@
 
 ## :camera: Screenshots
 
-![screen print](./img/signup.png)
+![screen print](./imgs/signup.png)
 
 ## :signal_strength: Technologies
 
@@ -37,8 +37,8 @@
 * [Django v3](https://www.djangoproject.com/) web framework
 * [Django Rest Framework v3](https://www.django-rest-framework.org/) powerful and flexible toolkit for building Web APIs
 * [Google Recapture API](https://developers.google.com/recaptcha) that uses advanced risk analysis techniques to tell humans and bots apart.
-* [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview)
-* [Google Maps API](https://developers.google.com/maps)
+* [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview)  to return information about places using HTTP requests.
+* [Google Maps API](https://developers.google.com/maps) to show maps of user planned trip etc.
 
 ## :floppy_disk: Setup
 
